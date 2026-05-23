@@ -17,6 +17,17 @@ It is designed for quick implementation support, community sharing, and stable v
 
 A key format, storage checklist, and replay rules to prevent duplicate side effects in .NET APIs.
 
+## Repository Contents
+
+- `resources/` contains shipped files copied from MatrixTrak public ship assets when available
+- `docs/post-mapping.md` maps this resource to related blog posts
+- `docs/resource-files.md` lists included files and source mapping
+- Included shipped files:
+  - resources/idempotency-contract-template.md
+  - resources/idempotency-key-strategy.md
+  - resources/README.md
+  - resources/request-cache-schema.sql
+
 ## Who This Is For
 
 - Engineers handling production incidents and reliability gaps
