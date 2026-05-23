@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T12:44:40.216Z",
+  "generatedAt": "2026-05-23T12:57:40.106Z",
   "resourceSlug": "idempotency-keys-contract-template-dotnet",
   "title": "Idempotency key contract template (.NET)",
   "description": "A key format, storage checklist, and replay rules to prevent duplicate side effects in .NET APIs.",
