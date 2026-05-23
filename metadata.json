@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-05-23T11:14:33.291Z",
+  "resourceSlug": "idempotency-keys-contract-template-dotnet",
+  "title": "Idempotency key contract template (.NET)",
+  "description": "A key format, storage checklist, and replay rules to prevent duplicate side effects in .NET APIs.",
+  "category": ".NET",
+  "pillar": "",
+  "canonicalResourceUrl": "https://matrixtrak.com/resources/idempotency-keys-contract-template-dotnet",
+  "primaryPostSlugs": [
+    "idempotency-keys-for-apis-prevent-duplicate-orders-emails-writes"
+  ],
+  "secondaryRelatedPostSlugs": []
+}
